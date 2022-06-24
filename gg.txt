@@ -1,0 +1,4 @@
+google-oauthlib-tool --scope https://www.googleapis.com/auth/assistant-sdk-prototype  --headless --client-secrets C:\\Users\\Horacio\\Downloads\\client_secret_364273744095-kq7jk2qj30ah4ah6i0dbj6bjs2blt6cn.apps.googleusercontent.com.json
+
+
+{"token": "ya29.a0ARrdaM--l9DC1dQzoG9VWf0e5BMeemQy9EBV9kNznAuMgA3VhKBPof2-7K3koglNFc3SzupZmm9CAVvDVqd9fncko2F3AFWIDEIbYrPUF40v_cxNnXJUeGTkF_kuLgRKo-fgmP02RWQ_VKnKIBGB8E4JsOBy", "refresh_token": "1//0f5XeXkaqZZPrCgYIARAAGA8SNwF-L9Ir8ezelOaHJM656lG6LApXSZNSFNwTDnZgtvUNxvi2bXvu0ilHbTZLYUUw1MsUHUJ7Qds", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "364273744095-kq7jk2qj30ah4ah6i0dbj6bjs2blt6cn.apps.googleusercontent.com", "client_secret": "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", "scopes": ["https://www.googleapis.com/auth/assistant-sdk-pro
